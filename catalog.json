@@ -24,7 +24,7 @@
       "id": "prod-2c08a3b3-003",
       "name": "Standard Item 3",
       "category": "clothing",
-      "price": 457.7,
+      "price": 457.70,
       "stock": 67,
       "rating": 2.1
     },
@@ -112,7 +112,7 @@
       "id": "prod-2c08a3b3-014",
       "name": "Pro Item 14",
       "category": "clothing",
-      "price": 308.7,
+      "price": 308.70,
       "stock": 62,
       "rating": 1.7
     },
