@@ -1,4 +1,8 @@
 {
+  "metadata": {
+    "email": "24f2004399@ds.study.iitm.ac.in",
+    "version": "2c08a3b3"
+  },
   "products": [
     {
       "id": "prod-2c08a3b3-001",
@@ -137,15 +141,10 @@
       "rating": 4.9
     }
   ],
-  "aggregation": {
-    "totalProducts": 17,
-    "categoryCounts": {
-      "electronics": 7,
-      "clothing": 7,
-      "home": 2,
-      "sports": 1,
-      "books": 0
-    },
-    "totalInventoryValue": 600976.30
+  "aggregations": {
+    "books": {
+      "count": 0,
+      "inventoryValue": 0.00
+    }
   }
 }
